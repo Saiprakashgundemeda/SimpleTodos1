@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.paragraph {
+  font-size: 20px;
+  text-align: left;
+}
+.delete-button {
+  border-color: #ff0b37;
+  border-radius: 5px;
+  border-width: 2px;
+  color: #ff0b37;
+  height: 40px;
+  width: 60px;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
